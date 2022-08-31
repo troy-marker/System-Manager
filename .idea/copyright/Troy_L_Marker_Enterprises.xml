@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Project Name: &amp;#36;{project.name}&#10; Class Name: &amp;#36;{file.qualifiedClassName}&#10; File Name: &amp;#36;{file.fileName}&#10; File Creation Date: &amp;#36;{today.month}/&amp;#36;{today.day}/&amp;#36;{today.year}&#10; File Creation Time: &amp;#36;{today.hour24}:&amp;#36;today.minute:&amp;#36;today.second&#10; File Creator: &amp;#36;{username}&#10; &#10; Copyright &amp;#36;{today.year}  by Troy L Marker Enterprises&#10;  &#10; Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); You may not use this file except in compliance with the License.&#10; You may obtain a copy of the License at&#10;  &#10;      http://www.apache.org/licenses/LICENSE-2.0&#10;  &#10; Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#10; WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#10; See the License for the specific language governing permissions and limitations under the License." />
+    <option name="myName" value="Troy L Marker Enterprises" />
+  </copyright>
+</component>
